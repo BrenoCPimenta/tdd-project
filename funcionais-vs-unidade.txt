@@ -1,0 +1,6 @@
+A primeira diferença é a perspectiva, o teste funcional é escrito a partir da perspectiva do usuário, 
+enquanto o teste unitário é realizado a partir da perspectiva do desenvolvedor.
+
+O teste unitário testa uma unidade de comportamento do código, como um método ou função e com todas
+suas dependências "mocadas". Enquanto o teste funcional testa uma parte da funcionalidade do sistema,
+o que pode ser constituída de várias classes/métodos, funções e dependências.

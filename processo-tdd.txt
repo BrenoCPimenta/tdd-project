@@ -1,0 +1,13 @@
+O TDD consiste de uma metodologia que pode ser descrita a partir de um ciclo de desenvolvimento.
+
+1. O processo inicial consiste da escrita do teste funcional, que é definido como início do processo,
+pois referencia a visão do usuário e este teste representa o comportamento que está funcionalidade deve ter.
+2. Deve seguir o padrão de desenvolvimento de teste unitário até que o teste funcional seja bem sucedido ou
+enquanto ele necessitar de refatoração.
+3. Quando o teste funcional passar, deverá ser escrito outro teste funcional que representa a próxima
+funcionalidade do sistema e todo o processo "padrão de desenvolvimento de teste unitário" se incia novamente.
+4. O "padrão de desenvolvimento de teste unitário" se baseia em primeiro criar um teste unitário que define 
+o comportamento de uma parte atômica do código. Com o teste pronto o desenvolvedor deve buscar implementar
+o mínimo de código suficiente para que essa parte funcione. Assim, sucessivamente até que todos os testes
+representem vários comportamentos "atômicos" do sistema sejam capazes de representar a funcionalidade em 
+que se deseja testar.
